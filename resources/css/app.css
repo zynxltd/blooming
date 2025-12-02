@@ -1,0 +1,10 @@
+/* Main application styles */
+/* Import vendor bundle (third-party libraries) */
+@import './vendor.bundle.css';
+
+/* Import theme styles */
+@import './style.css';
+@import './theme-blue-green.css';
+
+/* Custom styles are in the <style> tag in app.blade.php */
+
